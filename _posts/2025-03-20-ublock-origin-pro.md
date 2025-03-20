@@ -8,7 +8,7 @@ meta: 고파스 광고차단
 ---
 고파스 광고차단 이렇게 할 수 있습니다. 광고 차단하고 광고 없는 클린한 고파스 하세요 ^^
 
-## uBlock Origin (무료)
+## uBlock Origin (데스크탑 무료)
 
 1.  먼저 플러그인을 설치합니다. [크롬 브라우저 플러그인](https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=item-share-cb)
     
@@ -40,7 +40,7 @@ meta: 고파스 광고차단
 
 [https://raw.githubusercontent.com/koreapasnoad/noad/refs/heads/main/filter.txt](https://raw.githubusercontent.com/koreapasnoad/noad/refs/heads/main/filter.txt)
 
-## 유니콘 PRO (유료)
+## 유니콘 PRO (유료, 데스크탑+모바일)
 
 [홈페이지 링크](https://getunicorn.app/ko). 유료인 대신 고파스 외에도 카카오톡 등의 광고를 차단할 수 있습니다.
 
