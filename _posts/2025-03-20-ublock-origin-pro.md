@@ -27,7 +27,7 @@ meta: 고파스 광고차단
 
 ## Brave Browser (무료, 데스크탑+모바일)
 
-1.  브라우저를 설치합니다. [데스크탑 다운로드 링크](https://brave.com/ko/download/) [구글플레이 안드로이드 링크](https://play.google.com/store/apps/details?id=com.brave.browser&hl=ko) [앱스토어 iOS 링크](https://apps.apple.com/kr/app/brave-browser-private-web/id1052879175?l=en-GB)
+1.  브라우저를 설치합니다. [데스크탑 다운로드 링크 |](https://brave.com/ko/download/) [구글플레이 안드로이드 링크](https://play.google.com/store/apps/details?id=com.brave.browser&hl=ko) | [앱스토어 iOS 링크](https://apps.apple.com/kr/app/brave-browser-private-web/id1052879175?l=en-GB)
     
 2.  안드로이드 기준 설명법입니다. 메뉴 버튼 클릭
     
