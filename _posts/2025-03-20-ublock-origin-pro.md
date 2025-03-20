@@ -14,6 +14,8 @@ meta: 고파스 광고차단
 
 먼저 플러그인을 설치합니다. 플러그인 클릭 -> (톱니바퀴모양 아이콘) 설정 클릭 -> uBlock 대시보드에서 필터목록 메뉴 -> 맨 밑에 불러오기.. 클릭 -> 아래 링크 붙여넣고 상단 \[변경사항 적용\] 버튼 클릭
 
+[https://raw.githubusercontent.com/koreapasnoad/noad/refs/heads/main/filter.txt](https://raw.githubusercontent.com/koreapasnoad/noad/refs/heads/main/filter.txt)
+
 ## 유니콘 PRO
 
 유료입니다. [홈페이지 링크](https://getunicorn.app/ko). 유료인 대신 고파스 외에도 카카오톡 등의 광고를 차단할 수 있습니다.
