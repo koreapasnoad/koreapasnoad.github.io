@@ -8,6 +8,8 @@ meta: 고파스 광고차단
 ---
 고파스 광고차단 이렇게 할 수 있습니다. 광고 차단하고 광고 없는 클린한 고파스 하세요 ^^
 
+<br>
+
 ## uBlock Origin (데스크탑 무료)
 
 1.  먼저 플러그인을 설치합니다. [크롬 브라우저 플러그인](https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=item-share-cb)
