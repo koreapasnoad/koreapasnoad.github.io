@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 고파스 광고차단 방법 (ublock origin 또는 유니콘PRO)
+title: 고파스 광고차단 방법
 categories: misc
 author:
   - koreapasnoad
@@ -21,6 +21,21 @@ meta: 고파스 광고차단
 5.  맨 밑에 불러오기.. 클릭
     
 6.  아래 링크 붙여넣고 상단 \[변경사항 적용\] 버튼 클
+    
+
+[https://raw.githubusercontent.com/koreapasnoad/noad/refs/heads/main/filter.txt](https://raw.githubusercontent.com/koreapasnoad/noad/refs/heads/main/filter.txt)
+
+## Brave Browser (무료, 데스크탑+모바일)
+
+1.  브라우저를 설치합니다. [데스크탑 다운로드 링크](https://brave.com/ko/download/) [구글플레이 안드로이드 링크](https://play.google.com/store/apps/details?id=com.brave.browser&hl=ko) [앱스토어 iOS 링크](https://apps.apple.com/kr/app/brave-browser-private-web/id1052879175?l=en-GB)
+    
+2.  안드로이드 기준 설명법입니다. 메뉴 버튼 클릭
+    
+3.  설정 버튼 -> Brave Shields 및 프라이버시
+    
+4.  콘텐츠 필터링
+    
+5.  맞춤 필터 목록 추가 버튼 클릭후 아래 링크 추가
     
 
 [https://raw.githubusercontent.com/koreapasnoad/noad/refs/heads/main/filter.txt](https://raw.githubusercontent.com/koreapasnoad/noad/refs/heads/main/filter.txt)
