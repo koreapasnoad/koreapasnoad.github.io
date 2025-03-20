@@ -27,6 +27,8 @@ meta: 고파스 광고차단
 
 [https://raw.githubusercontent.com/koreapasnoad/noad/refs/heads/main/filter.txt](https://raw.githubusercontent.com/koreapasnoad/noad/refs/heads/main/filter.txt)
 
+<br>
+
 ## Brave Browser (무료, 데스크탑+모바일)
 
 1.  브라우저를 설치합니다. [데스크탑 다운로드 링크 ㅣ](https://brave.com/ko/download/) [구글플레이 안드로이드 링크](https://play.google.com/store/apps/details?id=com.brave.browser&hl=ko) ㅣ [앱스토어 iOS 링크](https://apps.apple.com/kr/app/brave-browser-private-web/id1052879175?l=en-GB)
@@ -41,6 +43,8 @@ meta: 고파스 광고차단
     
 
 [https://raw.githubusercontent.com/koreapasnoad/noad/refs/heads/main/filter.txt](https://raw.githubusercontent.com/koreapasnoad/noad/refs/heads/main/filter.txt)
+
+<br>
 
 ## 유니콘 PRO (유료, 데스크탑+모바일)
 
@@ -58,3 +62,5 @@ meta: 고파스 광고차단
     
 
 [https://raw.githubusercontent.com/koreapasnoad/noad/refs/heads/main/filter.txt](https://raw.githubusercontent.com/koreapasnoad/noad/refs/heads/main/filter.txt)
+
+<br>
